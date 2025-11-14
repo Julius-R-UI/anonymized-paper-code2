@@ -1,8 +1,8 @@
-# DINO Fork
+# HASSL: Hierarchy-Aware Self-Supervised Learning Framework for Foundational Single-Cell Microscopy Image Embeddings
 
-**NOTE: This is a fork of DINO (DINOv3) with modifications.**
+**NOTE: This is a repository is a fork of DINO (DINOv3) with modifications.**
 
-This repository contains a modified version of the DINO (DINOv3) codebase. The original DINOv3 project was developed by Meta Platforms, Inc. and affiliates.
+This repository contains a modified version of the DINO (DINOv3) codebase.
 
 ## Original DINO
 
